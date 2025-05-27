@@ -5,11 +5,7 @@ const Testimonials = () => {
     <section className="testimonials">
       <h2>What Our Guests Say</h2>
       <div className="testimonial">
-        <img
-          src="https://via.placeholder.com/60"
-          alt="User"
-          className="user-photo"
-        />
+        <img src="/user-one.png" alt="User" className="user-photo" />
         <div>
           <p>⭐⭐⭐⭐⭐</p>
           <p>"The food is absolutely delicious and the ambiance is so cozy!"</p>
@@ -19,11 +15,7 @@ const Testimonials = () => {
         </div>
       </div>
       <div className="testimonial">
-        <img
-          src="https://via.placeholder.com/60"
-          alt="User"
-          className="user-photo"
-        />
+        <img src="/user-2.png" alt="User" className="user-photo" />
         <div>
           <p>⭐⭐⭐⭐</p>
           <p>"Great service and even better lemon tart. Will come again!"</p>
